@@ -1,0 +1,43 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  overflow-x: auto;
+  font-family: "Lato", sans-serif;
+  
+}
+
+.img {
+  width: 100%;
+  height: 100vh;
+  background: url(../images/hero.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.service-section{
+  background-color:#2fc4b2;
+  width: 100%;
+  height: 30%;
+}
+.btn{
+    background-color: #2fc4b2;
+   border-color: aqua;
+}
+.rounded-circle{
+  width: 60px;
+  height: 60px;
+  margin-top: 25px;
+  margin-right: 20px;
+}
+
+/* What are you waiting for? section */
+.waiting{
+  background-color:#2fc4b2;
+  width: 100%;
+  height: 30%;
+}
+button{
+  color: #2fc4b2;
+  background-color: white;
+  padding: 10px;
+  margin: 20px;
+}
